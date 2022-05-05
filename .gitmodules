@@ -1,0 +1,6 @@
+[submodule "main-project"]
+	path = main-project
+	url = git@github.com:toaimpg/main-project.git
+[submodule "sub-project"]
+	path = sub-project
+	url = git@github.com:toaimpg/sub-project.git
